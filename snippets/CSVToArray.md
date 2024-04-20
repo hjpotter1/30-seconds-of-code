@@ -62,19 +62,31 @@ typescript
 
 ###### Tailwind、CSS-in-JS
 
-###### review
+测试驱动开发
 
-コンポーネントは1つの責任を持つように設計されているか
+技术提案，具体的内容，比如flask
 
-命名の観点で気をつけること
+从零开始，如果是你会怎么选fmamewolk
 
-keyは一意であるか 同じidは使用しないようにする
+比如github上的star，上传的频率来选
 
-型とデータの順番は合っているか
+vue和react的区别
 
-CSS重複していないか
+vuetify设计的理念，一个什么design？
 
-対象のページの見た目
+vue的生命周期
+
+beforecreate，create，mounted，update，unmonted
+
+JavaScript和typescript的区别
+
+axios
+
+webpack
+
+非同期，同期的区别
+
+cicd
 
 #### 職務経歴紹介
 
